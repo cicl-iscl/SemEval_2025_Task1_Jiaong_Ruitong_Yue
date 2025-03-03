@@ -28,7 +28,7 @@ Subtask A in **SemEval 2025** focuses on ranking images according to how well th
 ## **External Links & References**  
 
 For more details, refer to:  
-- [SemEval 2025 Task 1 Overview]([https://semeval.github.io/2025/](https://semeval2025-task1.github.io/))  
-- ManyICL method is described in the [official research paper]([https://arxiv.org/abs/example](https://arxiv.org/html/2405.09798v1)).  
+- [SemEval 2025 Task 1 Overview](https://semeval2025-task1.github.io/)  
+- ManyICL method is described in the [official research paper](https://arxiv.org/html/2405.09798v1).  
 
 ---
