@@ -5,6 +5,11 @@
 Subtask A in **SemEval 2025** focuses on ranking images according to how well they represent the **intended sense** (idiomatic or literal) of a **nominal compound (NC)** in a given context sentence.  
 
 ---
+## Our Paper
+
+Our paper is available at:  
+[here](SemEval_2024_Task_1__AdMIRe__Advancing_Multimodal_Idiomaticity_Representation.pdf)
+
 
 ## **Methodology**  
 
